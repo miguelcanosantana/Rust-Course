@@ -1,0 +1,1 @@
+To run a project without unnecessary info use: ```cargo run -q```
