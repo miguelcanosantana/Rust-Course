@@ -3,5 +3,8 @@ struct Deck {
 }
 
 fn main() {
+
+    let deck = Deck {cards: vec![]};
+
     println!("Hello, world!");
 }
