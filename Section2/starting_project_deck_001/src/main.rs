@@ -4,7 +4,9 @@ struct Deck {
 
 fn main() {
 
+    //let deck = Deck {cards: Vec::new()};
     let deck = Deck {cards: vec![]};
 
-    println!("Hello, world!");
+    //println!("Here is your deck: {}", deck);
+    println!("Here is your deck: {deck}");
 }
